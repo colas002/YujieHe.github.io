@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-My first time getting in touch with programming was doing my high school AP course called Computer Science Principles, and Javascript was the first programming language I got introduced to and taught. It is also one of the reasons that led me to choose computer science as my major in University of Hawaii at Manoa.
+My first time getting in touch with programming was doing my high school AP course called Computer Science Principles, and Javascript was the first programming language I got introduced to and taught. It is also one of the reasons that led me to choose computer science as my major at the University of Hawaii at Manoa.
 
 ## Different about Javascript
 
