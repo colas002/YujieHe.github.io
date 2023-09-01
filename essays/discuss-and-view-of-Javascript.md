@@ -38,4 +38,4 @@ I do have some stressful in the beginning because I won’t see the question bef
 
 ## In Conclusion
 
-Overall, As a newcomer in high school who didn't know anything about programming until today, I have challenged and completed a lot of difficulties. I believe I will continue to stick to it.
+Overall, start from didn't know anything about programming in high school until today, I have challenged and completed a lot of difficulties. I believe I will continue to stick to it.
