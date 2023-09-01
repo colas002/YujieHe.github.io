@@ -20,7 +20,8 @@ Through the coding experience I have from the past to the current, I think javas
 For example, the variable, in C, C++, java, all those programming language need you to declare the type of the variable like int, string, char, boolean, and etc, but in javascript, you could simply using var, let or const to create a variable, and assigned any type of value to it, and javascript will take care for you.
 
 This is also happening in array and function, in C, C++, java, each array can only contain one type of data, like you can’t put number 4 and string “Jack” in the same array, but in javascript, you can do it, by simply using let or const to create an array, you could assigned and mix any type of date in same array, and unlike other programming languages, javascript don’t have fix length, so you don’t have to declare the length of array when you create it, you can add as many data as you want.
-And for the function, in C, C++, java, it require you to define a type of data that your function will return, while javascript only needs you to put word function in front of function name, and then you could return whatever you want, no matter a string, a number, a variable, a boolean, anything.
+
+For the function, in C, C++, java, it require you to define a type of data that your function will return, while javascript only needs you to put word function in front of function name, and then you could return whatever you want, no matter a string, a number, a variable, a boolean, anything.
 
 ## Learn about Javascript
 
