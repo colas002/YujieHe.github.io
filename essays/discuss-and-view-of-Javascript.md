@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The discuss and view of Javascript"
+title: "The Discuss and View of Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
 published: true
@@ -13,7 +13,7 @@ labels:
 
 My first time getting in touch with programming was doing my high school AP course called Computer Science Principles, and Javascript was the first programming language I got introduced to and taught. It is also one of the reasons that led me to choose computer science as my major at the University of Hawaii at Manoa.
 
-## Different about Javascript
+## Different About Javascript
 
 Through the coding experience I have from the past to the current, I think javascript is an convenient, simple, and fast programming language, there are some part in the javascript I founded that makes me feel so convenient.
 
@@ -23,13 +23,13 @@ This is also happening in array and function, in C, C++, java, each array can on
 
 For the function, in C, C++, java, it require you to define a type of data that your function will return, while javascript only needs you to put word function in front of function name, and then you could return whatever you want, no matter a string, a number, a variable, a boolean, anything.
 
-## Learn about Javascript
+## Learn About Javascript
 
 It's been a while for me not coding using javascript since high school, through this module, the course and assignment E07: Introduction to Javascript helps me refresh and organize the knowledge about javascript I have forgotten or unfamiliar things like spread operator, arrow functions, and etc.
 
 I think javascript is a good programming language from a software engineering perspective because it runs fast, is very easy to learn compared to other programming languages like C++, and it is famous and widely used.
 
-## Thoughts about athletic software engineering
+## Thoughts About Athletic Software Engineering
 
 Through few times of practice WODs, I do find practice WODs was very useful, it give me the opportunity to get practice, adapt and find the question I might have when I was coding, like coding speed, the understanding of method, the ability to solve problems in short amount of time, and etc.
 
