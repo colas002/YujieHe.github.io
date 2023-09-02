@@ -11,10 +11,10 @@ labels:
 summary: "A game that I developed for ICS 111."
 ---
 
-TwentySideDieSimulation was part of my first assignment in the Fall, 2021 course ICS111, it helped me get started and learn the Java programming language.
+TwentySideDieSimulation was part of my first assignment in the ICS 111, Fall 2021, it helped me get started and learn the Java programming language.
 
-The function rolls a pair of 20 sided dice, it will get two integers at random within the specified range by using Math.random(), and returns the result by adding the two numbers together.
+The class rolls a pair of 20 sided dice, it will get two integers at random within the specified range by using Math.random(), and returns the result by adding the two numbers together.
 
-From this assignment I learned how to create variables and use Math.random() in Java.
+From this assignment, I have learned how to create variables and use Math.random() in Java.
 
 <img class="img-fluid" src="../img/twentyDice.png">
