@@ -10,11 +10,11 @@ labels:
 summary: "A function that sorts the cheese."
 ---
 
-TwentySideDieSimulation was part of my first assignment in the ICS 111, Fall 2021, it helped me get started and learn the Java programming language.
+ManoaCheeseFromager function was part of my second assignment in the ICS 211, spring 2021, by complete this assignment, it helped me continue to study, practice, and learn about the Java programming language like Class Hierarchies and Interfaces.
 
-The class rolls a pair of 20 sided dice, it will get two integers at random within the specified range by using Math.random(), and returns the result by adding the two numbers together.
+this function enhance my understanding of OOP, class hierarchies and interfaces by creating a simple Java class hierarchy of Cheese and a Fromager.
 
-From this assignment, I have learned how to create variables and use Math.random() in Java.
+which gives me a head up and an idea of what I will be learning on the following of course.
 
 
 <img class="img-fluid" src="../img/cheese.png">
