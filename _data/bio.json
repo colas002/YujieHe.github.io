@@ -38,13 +38,13 @@
   ],
   "work": [
     {
-      "company": "",
+      "company": "currently no work",
       "position": "",
       "website": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": ["currently no work"
+      "highlights": [
       ]
     },
     {
@@ -61,7 +61,7 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "None",
       "website": "",
       "position": "",
       "startDate": "",
