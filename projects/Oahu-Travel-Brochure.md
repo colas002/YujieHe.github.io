@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gettyimages-1015218282-1024x576.jpg
+image: img/o1.jpg
 title: "Oahu Travel Brochure"
 date: 2023
 published: true
