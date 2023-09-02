@@ -18,4 +18,5 @@ The program will recommend the famous tourist places in Oahu to the user. The us
 
 This program helps me test and practice my JavaScript programming skills, independent creativity, problem-solving, etc.
 
+
 <img class="img-fluid" src="../img/h2.png">
