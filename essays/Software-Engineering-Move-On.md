@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-![png-coding-1](https://github.com/colas002/colas002.github.io/assets/98071760/c2a43c8b-3c42-49b7-bad2-d7f9fcb847d0)
+![25-1PQ6113G0192](https://github.com/colas002/colas002.github.io/assets/98071760/13234b30-1781-4ee8-b7f8-6b39ab6e4948)
 
 I had first contact with Computer Science in my last year of high school. By chance, my friend recommended me to take an AP course called "Computer Science Principles" with him, and that’s my first contact and understanding of programming and code. As well as the first programming language I was taught, JavaScript, though learning, I gradually went from knowing nothing to having a little basic knowledge of programming, while enjoying the feeling of happiness and accomplishment brought by the successful running of code, until the end of my high school. Because of the novel experience brought by computer courses, I firmly choose computer science as my major in college, and hope to learn and improve more of my programming experience in college courses.
 
