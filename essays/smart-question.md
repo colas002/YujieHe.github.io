@@ -48,6 +48,7 @@ And she provides a code, and try to find is there any more efficient way than th
 This is the only way I know to do it:
 
 function contains(a, obj) {
+
     for (var i = 0; i < a.length; i++) {
         if (a[i] === obj) {
             return true;
