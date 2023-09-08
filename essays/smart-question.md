@@ -40,28 +40,30 @@ These will increase your chances of getting an effective and responsible answer 
 Lets look at the example of ask question in an “smart way” and “not smart way”.
 
 SMART:
-https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-a-value-in-javascript
+<a href="https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-a-value-in-javascript">How do I check if an array includes a value in JavaScript? - Stack Overflow</a>
+
 In a question “How do I check if an array includes a value in JavaScript?” written by brad, she asked the community: What is the most concise and efficient way to find out if a JavaScript array contains a value?
 
 And she provides a code, and try to find is there any more efficient way than this method.
 
 This is the only way I know to do it:
 
-function contains(a, obj) {
-
+<pre> 
+function contains (a, obj) {
     for (var i = 0; i < a.length; i++) {
         if (a[i] === obj) {
             return true;
         }
     }
-    return false;
+    return false;   
 }
+</pre>
 
 She clearly conveyed what he was trying to figure out, what she had tried and worked on, and her tittle was very close to what she wanted to ask.
 The questioner received 62 possible answers, and each repiler actively discussed and gave their most satisfactory answers and suggestions.
 
 NOT SMART ：
-https://stackoverflow.com/questions/59102067/why-im-getting-this-error-in-rust-while-running-cargo-in-terminal
+<a href="https://stackoverflow.com/questions/59102067/why-im-getting-this-error-in-rust-while-running-cargo-in-terminal">why i'm getting this error in rust? while running cargo in terminal - Stack Overflow</a>
 
 In a question “why i'm getting this error in rust? while running cargo in terminal” written by Abhi Singh, he posted a question with only a title and error message report, and without any description,
 His question did not follow the guide on how to ask good question, there was a lack of required details and the question could be searched up online, did not show any effort.
