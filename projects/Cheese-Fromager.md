@@ -17,4 +17,4 @@ this function enhanced my understanding of OOP, class hierarchies, and interface
 which gives me a head up and an idea of what I will be learning on the following of course.
 
 
-<img class="img-fluid" src="../img/cheese.png">
+<img src="../img/cheese.png">
