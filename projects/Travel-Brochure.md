@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/o1.png
+image: img/waikiki-beach-diamond-head-1.png
 title: "Oahu Travel Brochure"
 date: 2023
 published: true
