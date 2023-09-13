@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/c1.png
+image: img/cheesev2.png
 title: "Java: Cheese Fromager"
 date: 2023
 published: true
