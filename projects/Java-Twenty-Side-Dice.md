@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/eclipse-logo.png
+image: img/twentyDicev2.webp
 title: "Java: Twenty Side Dice"
 date: 2023
 published: true
