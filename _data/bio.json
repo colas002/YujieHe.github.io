@@ -38,9 +38,16 @@
   ],
   "work": [
     {
-      "title": "FULL TIME STUDENT"
-    }
-  ],
+      "company": "FULL TIME STUDENT",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
   "awards": [
     {
       "title": "B+ Scholarship",
