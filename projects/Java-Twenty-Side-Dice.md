@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - GitHub
-summary: "A game that I developed for ICS 111."
+summary: "A game that will roll a 20 sides of dice and give the result."
 ---
 
 TwentySideDieSimulation was part of my first assignment in the ICS 111, Fall 2021, it helped me get started and learn the Java programming language.
