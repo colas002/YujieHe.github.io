@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img src="../img/25-1PQ6113G0192.jpg" width="300" height="300">
+<img width="300px" class="rounded float-start pe-4" src="../img/25-1PQ6113G0192.jpg">
 My first time contact with Computer Science was during my last year of high school. By chance, my friend recommended me to take an AP course called "Computer Science Principles" with him, and that’s my first contact and understanding of programming and code. As well as the first programming language I was taught, JavaScript, though learning, I gradually went from knowing nothing to having a little basic knowledge of programming, while enjoying the feeling of happiness and accomplishment brought by the successful running of code, until the end of my high school. Because of the novel experience brought by computer courses, I firmly choose computer science as my major in college, and hope to learn and improve more of my programming experience in college courses.
 
 
