@@ -32,7 +32,7 @@
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Intro to Computer Science I & II", "Discrete Mathematics I & II", "Program Structure", "Algorithms", "Database Systems I", "Data Networks"
       ]
     }
   ],
