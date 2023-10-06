@@ -12,7 +12,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codest.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/Bootstrap-5.png">
 
 ## Introduction
 After a few weeks of contact with Bootstrap 5, HTML, and CSS, I have some knowledge and understanding of them. I believe that HTML, CSS, and UI Frameworks are some of the basic tools for web development to create web pages and define the style of web pages, including the design, layout, and display changes of different devices and screen sizes.
