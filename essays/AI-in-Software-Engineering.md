@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Learning
-  - Reflection
+  - Reflect
   - AI
 ---
 
