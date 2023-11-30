@@ -11,12 +11,12 @@ labels:
   - Design Patterns
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/designer.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/designer.jpg">
 
-## introduction
+## Introduction
 Design patterns exist in almost every industry and are a reusable form of problem solution that helps and guides designers to make the most appropriate and optimal decisions about common problems.For example, in a symphony orchestra, each musician represents a component in the software system. We need each musician to use different instruments for fine and perfect coordination to achieve a wonderful musical performance, and design patterns guide the musicians, develop and improve the music score, and provide a template to solve repeated problems.
 
-## different design patterns
+## Different Design Patterns
 Different types of design patterns also have different roles. Software quality can be maintained by choosing different types of design patterns, such as the Singleton pattern, which ensures that a class has only one instance and provides global access, just like a conductor at the heart of a symphony orchestra performance. 
 And observer mode, which reacts to changes, and every time the state of one part changes, other parts need to be automatically updated to keep everyone in sync, it is just like responding to the conductor's command signal.
 
