@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="The Art of Asking Smart Questions in Software Engineering | Yujie He | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/colas002.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Yujie He | Professional Portfolio">
+    <meta property="og:url" content="https://colas002.github.io/essays/smart-question.html">
+    <meta property="og:title" content="The Art of Asking Smart Questions in Software Engineering | Yujie He | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/colas002.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>The Art of Asking Smart Questions in Software Engineering | Yujie He | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Yujie He</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">The Art of Asking Smart Questions in Software Engineering</h1>
+  <span class="date">07 Sep 2023</span>
+  <hr>
+  <p><img width="300px" class="rounded float-start pe-4" src="../img/smart.png" /></p>
+
+<p>Communication is one of the most critical skills in software engineering, In Eric Raymond’s article “How to ask questions the smart way”, he provides guidelines for effective interaction with the open source community, and asks questions effectively.
+Learning programming language is never an easy thing, often need to spend a lot of time to learn and practice, during this period you may encounter a lot of problems you do not understand or can not solve, and ask others for help to find a solution is inevitably one of the smart choices, but there are many ways to ask questions, and how to ask questions correctly and smartly is the key.</p>
+
+<p>By asking smart questions will greatly help efficiency, learning and community help. 
+A smart question is more likely to get quicker and more accurate answers, the replier can more easily understand what question you are asking for and provide the best match answer.
+And the process of asking a smart question also leads to a deeper understanding of the problem.
+It also Helps build a culture of mutual respect and collaborative problem solving.
+And there are some articles like “How do I ask a good question?” in the Stack Overflow help center that will guide you how to ask a good question.</p>
+
+<h2 id="what-is-a-smart-question">What is a Smart Question?</h2>
+
+<p>Almost 90 percent of all programming questions can be answered on Stack Overflow, but you need to know how to pinpoint the problem, and you need to provide at least the following information such as what programming language you are using, what framework you are using, what problems you are running into such as installation failures, crashes, etc. what did you try and etc.</p>
+
+<p>According to Eric Raymond’s article, he said a smart question should:
+-on-topic and have a title that sums up the problem
+-Be specific and clear in its wording.
+-Provide all necessary context, including code snippets, logs, and error messages.
+-Show what the asker has already tried to solve the problem.
+-Be polite and respectful to the community.
+And more.
+These will increase your chances of getting an effective and responsible answer to your question.</p>
+
+<h2 id="smart-and-not-smart-question">Smart and Not Smart Question</h2>
+
+<p>Lets look at the example of ask question in an “smart way” and “not smart way”.</p>
+
+<p>SMART:
+<a href="https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-a-value-in-javascript">How do I check if an array includes a value in JavaScript? - Stack Overflow</a></p>
+
+<p>In a question “How do I check if an array includes a value in JavaScript?” written by brad, she asked the community: What is the most concise and efficient way to find out if a JavaScript array contains a value?</p>
+
+<p>And she provides a code, and try to find is there any more efficient way than this method.</p>
+
+<p>This is the only way I know to do it:</p>
+
+<pre> 
+function contains (a, obj) {
+    for (var i = 0; i &lt; a.length; i++) {
+        if (a[i] === obj) {
+            return true;
+        }
+    }
+    return false;   
+}
+</pre>
+
+<p>She clearly conveyed what he was trying to figure out, what she had tried and worked on, and her tittle was very close to what she wanted to ask.
+The questioner received 62 possible answers, and each repiler actively discussed and gave their most satisfactory answers and suggestions.</p>
+
+<p>NOT SMART ：
+<a href="https://stackoverflow.com/questions/59102067/why-im-getting-this-error-in-rust-while-running-cargo-in-terminal">why i’m getting this error in rust? while running cargo in terminal - Stack Overflow</a></p>
+
+<p>In a question “why i’m getting this error in rust? while running cargo in terminal” written by Abhi Singh, he posted a question with only a title and error message report, and without any description,
+His question did not follow the guide on how to ask good question, there was a lack of required details and the question could be searched up online, did not show any effort.
+The questioner did not receive any possible answer from replier and was recommended to follow the guide on how to ask good question to edit the details of the question, and do some research first, which was clearly a not smart question.</p>
+
+<h2 id="in-conclusion">In Conclusion</h2>
+
+<p>Smart questions can improve the efficiency of problem-solving and enrich the community through high-quality discussion, benefiting not only ourselves, but also those we ask and others who may have similar questions in the future.
+repiler can quickly and simply understand the questions we ask and let us get a satisfactory answer, while people with similar problems can quickly find a satisfactory solution through the answers to our questions, saving everyone’s time.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

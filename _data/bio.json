@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Yujie He",
+    "label": "Student",
+    "picture": "https://github.com/colas002.png",
+    "email": "yujie6@hawaii.edu",
+    "phone": "808-387-8899",
+    "website": "https://colas002.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Yujie He", "url": "http://github.com/colas002" },
+      { "network": "linkedin", "username": "Yujie He", "url": "https://www.linkedin.com/in/yujie-he-472a1522b" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Chess" },
+    { "name": "Video Games" },
+    { "name": "Novel" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [ "Intro to Computer Science I & II", "Discrete Mathematics I & II", "Program Structure", "Algorithms", "Database Systems I", "Data Networks"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "position": "FULL TIME STUDENT",
+      "startDate": "2020",
+      "endDate": "Present"
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
